@@ -1,6 +1,6 @@
 # Phase 4 Code Challenge: Pizza Restaurants (Updated)
 
-In this code challenge, you'll be working with a Pizza Restaurant domain.
+In this code challenge, you'll be working with a Pizza Restaurant domain.from models import db, Restaurant, RestaurantPizza, Pizza
 
 In this repo:
 
